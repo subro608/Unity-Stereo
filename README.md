@@ -18,7 +18,7 @@ We modified the above code to capture 360 stereoscopic images and along with it 
 ![alt text](https://github.com/subro608/Unity-Stereo/blob/main/helloImageSynthesis%2BCapturePass_5.jpg)
 
 
-
+In order to use new assets download the zip file in https://drive.google.com/file/d/1_uUb_EH8ooLTnXjUPqu1NNS5VdjCFiKv/view?usp=sharing. Replace it with the current asset folder.
 
 ### Requirements ###
 * Unity *5.5.0* or later
